@@ -1,5 +1,3 @@
-# Command Line 
-
 ### 簡介
 文字視窗 CLI
 下指令控制電腦

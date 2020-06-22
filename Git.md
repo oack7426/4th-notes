@@ -1,5 +1,3 @@
-# Git 版本控制
-
 ### 指令
 `git init` 針對此資料夾做版本控制
 `git status` 檔案狀態
