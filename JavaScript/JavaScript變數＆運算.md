@@ -25,6 +25,14 @@ var box = 3
 
 `number`
 `string`
+>tips `string` 可以用陣列的方式取得對應內容
+```
+var str = "你好";
+console.log(str[0]);
+
+結果
+你
+```
 `undefined`
 `boolean`
 `functon`
