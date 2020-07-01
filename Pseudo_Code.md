@@ -5,6 +5,12 @@
 PS. 可以用 str[i] 取得第 i 個字，例如說 str="abc"，str[0] 就是 'a'
 
 ```
+var str
+var strReverse
+for loop (i=str.length ; i>0 ; i--)
+    strReverse += str[i];
+end for
+print strReverse
 
 ```
 
@@ -13,7 +19,9 @@ PS. 可以用 str[i] 取得第 i 個字，例如說 str="abc"，str[0] 就是 'a
 範例輸入：[1, 2, 3]
 範例輸出：6
 
+
 ```
+
 ```
 
 
@@ -21,6 +29,9 @@ PS. 可以用 str[i] 取得第 i 個字，例如說 str="abc"，str[0] 就是 'a
 給一個陣列 arr，裡面全都包含了數字（整數），請輸出陣列中的最大值
 範例輸入：[1, 2, 3]
 範例輸出：3
+
+- var array = [] 
+- 
 
 ```
 ```
