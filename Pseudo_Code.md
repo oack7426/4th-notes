@@ -7,11 +7,10 @@ PS. 可以用 str[i] 取得第 i 個字，例如說 str="abc"，str[0] 就是 'a
 ```
 var str
 var strReverse
-for loop (i=str.length ; i>0 ; i--)
-    strReverse += str[i];
+for (i from str.length to 0) do
+    strReverse＋＝str[i]
 end for
 print strReverse
-
 ```
 
 2. 陣列總和
@@ -19,9 +18,12 @@ print strReverse
 範例輸入：[1, 2, 3]
 範例輸出：6
 
-
 ```
 
+for (i form 0 to arr.length) do
+    num + = arr[i]
+end for
+print num
 ```
 
 
@@ -34,4 +36,11 @@ print strReverse
 - 
 
 ```
+var bigNum = arr[0];
+for (i from 0 to arr.length) do
+    if (bigNum < arr[i]) do
+    bigNum = arr[i]
+    end if
+end for
+print bigNum
 ```
