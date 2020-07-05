@@ -1,3 +1,3 @@
-function double(n) {
+export function double(n) {
     return n * 2;
 }

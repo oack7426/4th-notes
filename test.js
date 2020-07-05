@@ -1,2 +1,5 @@
-var useMyModule = require('./myModule.js');
-console.log(useMyModule);
+import {
+    double
+} from './myModule.js';
+
+console.log(double(5));
