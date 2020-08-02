@@ -46,3 +46,5 @@ way3 : 新增.txt檔，放要輸入的文字 `cat {XX}.txt | node {XX}.js`
 右邊是 Pseudo Code 
 ![螢幕快照 2020-06-30 下午11.00.55](https://i.imgur.com/zxWidfU.png)
 ![螢幕快照 2020-06-30 下午11.02.39](https://i.imgur.com/7LbtDIS.png)
+
+
