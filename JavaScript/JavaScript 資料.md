@@ -71,7 +71,7 @@ request.onerror = function () {
     console.log('error');
 };
 request.open('GET', 'https://reqres.in/api/users', true);
-request.send();![螢幕快照 2020-09-13 上午1.42.24](https://i.imgur.com/TCeb8If.png)
+request.send();
 ```
 
 ## Same origin policy 與跨網域問題
